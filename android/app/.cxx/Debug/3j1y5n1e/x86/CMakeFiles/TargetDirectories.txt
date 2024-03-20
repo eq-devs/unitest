@@ -1,0 +1,2 @@
+/Users/estai/Desktop/test/unitest/android/app/.cxx/Debug/3j1y5n1e/x86/CMakeFiles/rebuild_cache.dir
+/Users/estai/Desktop/test/unitest/android/app/.cxx/Debug/3j1y5n1e/x86/CMakeFiles/edit_cache.dir
